@@ -21,13 +21,15 @@ function App() {
         >
           Learn React
         </a>
+        <p>All this is meaningless, what have we fallen into?</p>
       </header>
+      
     </div>
   );
 }
 function MyButton() {
   return (
-    <button>I'm a button</button>
+    <button>I'm more than a button, me; </button>
   );
 }
 
