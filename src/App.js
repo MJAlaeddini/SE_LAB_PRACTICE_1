@@ -13,6 +13,9 @@ function App() {
           In The Name of The God
         </p>
         <p>created by mohamad javad allaedini, seyed hasan moafi and amir tohidi</p>
+        <button>
+          i am button
+        </button>
         <a
           className="App-link"
           href="https://reactjs.org"
@@ -25,11 +28,6 @@ function App() {
       </header>
       
     </div>
-  );
-}
-function MyButton() {
-  return (
-    <button>I'm more than a button, me; </button>
   );
 }
 
