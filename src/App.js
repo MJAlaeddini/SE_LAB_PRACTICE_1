@@ -27,9 +27,9 @@ function App() {
     </div>
   );
 }
-function MyButton() {
+function MyConflictButton() {
   return (
-    <button>I'm more than a button, me; </button>
+    <button>I'm more than a button, me;</button>
   );
 }
 
