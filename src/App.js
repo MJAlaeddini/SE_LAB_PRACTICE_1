@@ -9,6 +9,9 @@ function App() {
         <p>
           React project of software engineering lab course
         </p>
+        <p>
+          In The Name of The God
+        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
@@ -19,6 +22,11 @@ function App() {
         </a>
       </header>
     </div>
+  );
+}
+function MyButton() {
+  return (
+    <button>I'm a button</button>
   );
 }
 
