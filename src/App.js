@@ -13,7 +13,7 @@ function App() {
           In The Name of The God
         </p>
         <p>created by mohamad javad allaedini, seyed hasan moafi and amir tohidi</p>
-        <button>
+        <button className="App-button">
           i am button
         </button>
         <a
