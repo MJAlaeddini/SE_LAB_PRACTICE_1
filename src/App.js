@@ -12,6 +12,7 @@ function App() {
         <p>
           In The Name of The God
         </p>
+        <p>created by mohamad javad allaedini, seyed hasan moafi and amir tohidi</p>
         <a
           className="App-link"
           href="https://reactjs.org"
