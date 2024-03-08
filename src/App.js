@@ -24,7 +24,9 @@ function App() {
         >
           Learn React
         </a>
+        <p>All this is meaningless, what have we fallen into?</p>
       </header>
+      
     </div>
   );
 }
