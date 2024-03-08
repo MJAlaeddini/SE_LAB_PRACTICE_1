@@ -30,13 +30,5 @@ function App() {
     </div>
   );
 }
-<<<<<<< HEAD
-function MyConflictButton() {
-  return (
-    <button>I'm more than a button, me;</button>
-  );
-}
-=======
->>>>>>> 1ec9018a4a089edf511cacaa6acadedeaa510372
 
 export default App;
