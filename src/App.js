@@ -1,3 +1,4 @@
+import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 
@@ -7,14 +8,22 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          React project of software engineering lab course
+          React project for Software Engineering Lab Course
         </p>
         <p>
           In The Name of The God
         </p>
-        <p>created by mohamad javad allaedini, seyed hasan moafi and amir tohidi</p>
+        <p>
+          Created by:
+          <br />
+          - Mohamad Javad Allaedini
+          <br />
+          - Seyed Hasan Moafi
+          <br />
+          - Amir Tohidi
+        </p>
         <button className="App-button">
-          i am button
+          I am a button
         </button>
         <a
           className="App-link"
@@ -24,9 +33,8 @@ function App() {
         >
           Learn React
         </a>
-        <p>All this is meaningless, what have we fallen into?</p>
+        <p>What does it all mean?</p>
       </header>
-      
     </div>
   );
 }
